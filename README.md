@@ -1,4 +1,6 @@
 # jQuery File Upload for Rails
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbizimply%2Fjquery-fileupload-rails.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbizimply%2Fjquery-fileupload-rails?ref=badge_shield)
+
 
 [jQuery-File-Plugin][1] is a file upload plugin written by [Sebastian Tschan][2]. jQuery File Upload features multiple file selection, drag&drop support, progress bars and preview images for jQuery. Supports cross-domain, chunked and resumable file uploads and client-side image resizing.
 
@@ -94,3 +96,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [4]: http://railscasts.com/episodes/381-jquery-file-upload?view=comments
 [5]: https://github.com/tors/jquery-fileupload-rails/graphs/contributors
 [6]: https://github.com/tors
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbizimply%2Fjquery-fileupload-rails.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbizimply%2Fjquery-fileupload-rails?ref=badge_large)
